@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.b5723487.chunk.js",
+    "main.js.map": "/static/js/main.b5723487.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80814c16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80814c16.js.map",
+    "static/js/2.00cb6299.chunk.js": "/static/js/2.00cb6299.chunk.js",
+    "static/js/2.00cb6299.chunk.js.map": "/static/js/2.00cb6299.chunk.js.map",
+    "static/js/3.550cef8f.chunk.js": "/static/js/3.550cef8f.chunk.js",
+    "static/js/3.550cef8f.chunk.js.map": "/static/js/3.550cef8f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.00cb6299.chunk.js.LICENSE.txt": "/static/js/2.00cb6299.chunk.js.LICENSE.txt",
+    "static/media/Don-Den-01-cover.fa175bfa.jpg": "/static/media/Don-Den-01-cover.fa175bfa.jpg",
+    "static/media/Don-Den-02-inv.0f536edd.jpg": "/static/media/Don-Den-02-inv.0f536edd.jpg",
+    "static/media/bg.c54fc838.jpg": "/static/media/bg.c54fc838.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80814c16.js",
+    "static/js/2.00cb6299.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b5723487.chunk.js"
+  ]
+}
